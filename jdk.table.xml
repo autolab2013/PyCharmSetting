@@ -1,0 +1,18 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Unknown at C:\Python27\python.exe" />
+      <type value="Python SDK" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
