@@ -40,6 +40,19 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/compress.py" timestamp="1446662495252">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="149" column="37" />
+        <mark key="]" line="149" column="38" />
+        <mark key="." line="149" column="38" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" timestamp="1446662778452">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="86" column="35" />
+        <mark key="]" line="86" column="35" />
+        <mark key="^" line="84" column="29" />
+        <mark key="." line="86" column="35" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,51 +60,70 @@
     <jumps>
       <jump line="45" column="12" filename="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" />
       <jump line="119" column="0" filename="$USER_HOME$/NathanLRF/LossLessCompProj/compress(1).py" />
+      <jump line="15" column="0" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
+      <jump line="100" column="10" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
+      <jump line="158" column="11" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/compress.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/compress.py" />
+      <jump line="23" column="9" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/compress.py" />
+      <jump line="75" column="25" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
+      <jump line="84" column="28" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
+      <jump line="90" column="26" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
+      <jump line="14" column="9" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1cnIgKz0gMQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1cnIgKz0gMQo=</text>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>H</text>
+      </register>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="4">
-        <text>curr</text>
+        <text>;</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y3VyciA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGluZGV4ID0gc3RydWN0LnVucGFjaygiSCIsIGRhdGFbaSAqIDIgOiAoaSArIDEpICogMl0pWzBdCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y3VyciA9IDAK</text>
+      <register name="4" type="4">
+        <text>H</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdhJwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGluZGV4ID0gc3RydWN0LnVucGFjaygiPEgiLCBkYXRhW2kgKiAyIDogKGkgKyAxKSAqIDJdKVswXQo=</text>
       </register>
       <register name="7" type="4">
-        <text>test</text>
+        <text>H</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Pj4+IA==</text>
+        <text>H</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>curr</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>H</last-search>
+      <last-offset />
+      <last-pattern>H</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>B</entry>
+        <entry>H</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
