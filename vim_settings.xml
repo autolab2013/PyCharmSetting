@@ -1,0 +1,107 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1446608974910">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/compress(1).py" timestamp="1446511068292">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="92" column="18" />
+        <mark key="]" line="92" column="18" />
+        <mark key="^" line="92" column="18" />
+        <mark key="." line="123" column="9" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" timestamp="1446589639767">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="16" />
+        <mark key="." line="105" column="16" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/README.md" timestamp="1446518837655">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="21" column="19" />
+      </file>
+      <file name="/Dummy.css" timestamp="1446512191031">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyCompress.py" timestamp="1446511490816">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446608815714">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="45" column="12" filename="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/NathanLRF/LossLessCompProj/compress(1).py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50ICdhJwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ICdhJwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
+        <text>test</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Pj4+IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>;</text>
+      </register>
+      <register name="7" type="4">
+        <text>;</text>
+      </register>
+      <register name="8" type="4">
+        <text>;</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
