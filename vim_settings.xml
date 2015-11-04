@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1446608974910">
+      <file name="/Python Console" timestamp="1446660955779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/compress(1).py" timestamp="1446511068292">
@@ -34,11 +34,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446608815714">
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446661343590">
         <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
@@ -50,37 +50,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdhJwo=</text>
+        <text encoding="base64">ICAgIGN1cnIgKz0gMQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdhJwo=</text>
+        <text encoding="base64">ICAgIGN1cnIgKz0gMQo=</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;&quot;</text>
+        <text>curr</text>
       </register>
       <register name="3" type="4">
-        <text>test</text>
+        <text encoding="base64">Y3VyciA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y3VyciA9IDAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pj4+IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50ICdhJwo=</text>
       </register>
       <register name="6" type="4">
-        <text>;</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>test</text>
       </register>
-      <register name="8" type="4">
-        <text>;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Pj4+IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>curr</text>
       </register>
     </registers>
     <search>
