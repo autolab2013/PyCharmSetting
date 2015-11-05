@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/README.md" timestamp="1446663499902">
@@ -16,17 +16,41 @@
         <mark key="^" line="92" column="18" />
         <mark key="." line="123" column="9" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" timestamp="1446589639767">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="105" column="16" />
-        <mark key="]" line="105" column="16" />
-        <mark key="." line="105" column="16" />
-      </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/README.md" timestamp="1446518837655">
         <mark key="[" line="19" column="41" />
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
         <mark key="^" line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446690810078">
+        <mark key="'" line="112" column="34" />
+        <mark key="[" line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" timestamp="1446662778452">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="86" column="35" />
+        <mark key="]" line="86" column="35" />
+        <mark key="^" line="84" column="29" />
+        <mark key="." line="86" column="35" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" timestamp="1446690124688">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="74" column="16" />
+        <mark key="]" line="74" column="16" />
+        <mark key="^" line="61" column="11" />
+        <mark key="." line="74" column="16" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446691785061">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="68" column="4" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" timestamp="1446589639767">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="16" />
+        <mark key="." line="105" column="16" />
       </file>
       <file name="/Dummy.css" timestamp="1446512191031">
         <mark key="[" line="0" column="0" />
@@ -37,31 +61,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446676291494">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="63" column="15" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/compress.py" timestamp="1446662495252">
         <mark key="'" line="23" column="9" />
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="38" />
         <mark key="." line="149" column="38" />
-      </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" timestamp="1446662778452">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="86" column="35" />
-        <mark key="]" line="86" column="35" />
-        <mark key="^" line="84" column="29" />
-        <mark key="." line="86" column="35" />
-      </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" timestamp="1446675524606">
-        <mark key="'" line="10" column="25" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
@@ -81,55 +85,81 @@
       <jump line="16" column="8" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
       <jump line="14" column="9" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" />
       <jump line="10" column="25" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" />
+      <jump line="78" column="30" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="85" column="16" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="67" column="14" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="79" column="14" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="84" column="18" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="65" column="10" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="88" column="30" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="77" column="53" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="76" column="30" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="60" column="17" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="81" column="40" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="89" column="55" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="96" column="33" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="104" column="34" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" />
+      <jump line="56" column="9" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" />
+      <jump line="68" column="41" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15X2RpY3QgPSBkaWN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXh0ZW5kIA==</text>
       </register>
       <register name="-" type="4">
-        <text>])</text>
+        <text encoding="base64">ZXh0ZW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text>H</text>
+        <text>index</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29kZSA9IG15X2RpY3RbcHJlZml4WzotMV1dCiAgICAgICAgICAgICAgICBieXRlY29kZSA9IHN0cnVjdC5wYWNrKCI8SCIsIGNvZGUpCiAgICAgICAgICAgICAgICBmb3V0LndyaXRlKGJ5dGVjb2RlKQ==</text>
+        <text>my_table =</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG15X2RpY3QgPSBkaWN0KCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZXh0ZW5kIA==</text>
       </register>
-      <register name="2" type="4">
-        <text>])</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdXQud3JpdGUoZW50cnkpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>word</text>
+        <text>my_dict</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>wy_dict</text>
       </register>
-      <register name="5" type="4">
-        <text>word_dict</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3eV9kaWN0W2luZGV4XSA9IGMK</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3eV9kaWN0W2luZGV4XSA9IGMK</text>
       </register>
       <register name="7" type="4">
-        <text>str</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>my_dict</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JyA=</text>
+        <text>my_dict</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>H</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>H</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -137,6 +167,9 @@
       <history-search>
         <entry>B</entry>
         <entry>H</entry>
+        <entry>print</entry>
+        <entry>append</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
