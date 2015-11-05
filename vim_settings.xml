@@ -22,6 +22,13 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="21" column="19" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" timestamp="1446732611155">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="73" />
+        <mark key="^" line="6" column="73" />
+        <mark key="." line="6" column="73" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446702931113">
         <mark key="'" line="111" column="34" />
         <mark key="[" line="87" column="18" />
@@ -55,6 +62,13 @@
         <mark key="]" line="105" column="16" />
         <mark key="." line="105" column="16" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" timestamp="1446732565104">
+        <mark key="'" line="95" column="16" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+      </file>
       <file name="/Dummy.css" timestamp="1446512191031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +83,12 @@
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="38" />
         <mark key="." line="149" column="38" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/README.md" timestamp="1446730723712">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="76" />
+        <mark key="^" line="6" column="76" />
+        <mark key="." line="6" column="76" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
@@ -114,55 +134,64 @@
       <jump line="56" column="9" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" />
       <jump line="68" column="41" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" />
       <jump line="4" column="14" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" />
+      <jump line="112" column="48" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" />
+      <jump line="62" column="12" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" />
+      <jump line="63" column="18" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" />
+      <jump line="50" column="7" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" />
+      <jump line="96" column="16" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" />
+      <jump line="70" column="31" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zm91dCA9IG9wZW4oJ291dC50eHQnLCAndycpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyBlbmNvZGVkIGFzIHVuc2lnbmVkIHNob3J0LCBwYWNrIGZvcm1hdCBpcyAiPEgiIGxpdHRsZSBlbmRpbmcgdW5zaWduZWQgc2hvcnQ=</text>
       </register>
       <register name="-" type="4">
-        <text />
-      </register>
-      <register name="/" type="4">
         <text>index</text>
       </register>
+      <register name="/" type="4">
+        <text>extend</text>
+      </register>
       <register name="0" type="4">
-        <text>my_table =</text>
+        <text encoding="base64">IyBlbmNvZGVkIGFzIHVuc2lnbmVkIHNob3J0LCBwYWNrIGZvcm1hdCBpcyAiPEgiIGxpdHRsZSBlbmRpbmcgdW5zaWduZWQgc2hvcnQ=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Zm91dCA9IG9wZW4oJ291dC50eHQnLCAndycpCg==</text>
+      <register name="1" type="4">
+        <text>index</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNvZAo=</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>-</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">IyB0ZXN0X2ZpbGUgPSAndGVzdC50eHQnCg==</text>
       </register>
       <register name="5" type="4">
-        <text>]]</text>
+        <text encoding="base64">PHdvcmQsIGluZGV4PiA=</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="7" type="4">
-        <text>[:-</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQgIm5ldyB3b3JkIGFkZGVkIDogfCIgKyBlbnRyeSArICd8Jwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQgImVudHJ5IGZvdW5kOiAiICsgc3RyKG15X2RpY3QuaW5kZXgoZW50cnkpKQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>_file</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
       <last-search>index</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>extend</last-pattern>
+      <last-replace>entry</last-replace>
+      <last-substitute>extend</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -173,9 +202,13 @@
         <entry>print</entry>
         <entry>append</entry>
         <entry>index</entry>
+        <entry>extend</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/extend/entry/gc</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
