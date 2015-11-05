@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/README.md" timestamp="1446663499902">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1446675107987">
+      <file name="/Python Console" timestamp="1446700297156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/compress(1).py" timestamp="1446511068292">
@@ -22,9 +22,12 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446690810078">
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446700751792">
         <mark key="'" line="112" column="34" />
         <mark key="[" line="60" column="0" />
+        <mark key="]" line="80" column="11" />
+        <mark key="^" line="80" column="11" />
+        <mark key="." line="80" column="11" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" timestamp="1446662778452">
         <mark key="'" line="14" column="9" />
@@ -40,11 +43,11 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="74" column="16" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446691785061">
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="4" />
-        <mark key="^" line="82" column="43" />
-        <mark key="." line="68" column="4" />
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446700793635">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="71" column="13" />
+        <mark key="^" line="71" column="13" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" timestamp="1446589639767">
         <mark key="'" line="45" column="12" />
@@ -113,11 +116,11 @@
       <jump line="4" column="14" filename="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZW5kIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29kZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kIA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -125,32 +128,32 @@
       <register name="0" type="4">
         <text>my_table =</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZXh0ZW5kIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29kZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdXQud3JpdGUoZW50cnkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgd29yZDoK</text>
       </register>
       <register name="3" type="4">
-        <text>my_dict</text>
+        <text>'</text>
       </register>
-      <register name="4" type="4">
-        <text>wy_dict</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IHN0cnVjdC51bnBhY2soJzxIJywgYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3eV9kaWN0W2luZGV4XSA9IGMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IHN0cnVjdC51bnBhY2soJzxIJywgYykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3eV9kaWN0W2luZGV4XSA9IGMK</text>
+      <register name="6" type="4">
+        <text>''</text>
       </register>
-      <register name="7" type="4">
-        <text>m</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgd29yZDoK</text>
       </register>
-      <register name="8" type="4">
-        <text>my_dict</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgYwo=</text>
       </register>
       <register name="9" type="4">
-        <text>my_dict</text>
+        <text encoding="base64">ZXh0ZW5kIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
