@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/README.md" timestamp="1446663499902">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1446700297156">
+      <file name="/Python Console" timestamp="1446703035458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/compress(1).py" timestamp="1446511068292">
@@ -22,12 +22,12 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446700751792">
-        <mark key="'" line="112" column="34" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="80" column="11" />
-        <mark key="^" line="80" column="11" />
-        <mark key="." line="80" column="11" />
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyCompress.py" timestamp="1446702931113">
+        <mark key="'" line="111" column="34" />
+        <mark key="[" line="87" column="18" />
+        <mark key="]" line="87" column="3" />
+        <mark key="^" line="87" column="3" />
+        <mark key="." line="87" column="3" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/Reference/decompress.py" timestamp="1446662778452">
         <mark key="'" line="14" column="9" />
@@ -43,11 +43,11 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="74" column="16" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446700793635">
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="71" column="13" />
-        <mark key="." line="71" column="13" />
-        <mark key="^" line="71" column="13" />
+      <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446702994299">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/decompress.py" timestamp="1446589639767">
         <mark key="'" line="45" column="12" />
@@ -117,10 +117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29kZQo=</text>
+        <text encoding="base64">Zm91dCA9IG9wZW4oJ291dC50eHQnLCAndycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -129,31 +129,31 @@
         <text>my_table =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29kZQo=</text>
+        <text encoding="base64">Zm91dCA9IG9wZW4oJ291dC50eHQnLCAndycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgd29yZDoK</text>
+        <text encoding="base64">ICAgIHByaW50IGNvZAo=</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IHN0cnVjdC51bnBhY2soJzxIJywgYykK</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IHN0cnVjdC51bnBhY2soJzxIJywgYykK</text>
+      <register name="5" type="4">
+        <text>]]</text>
       </register>
       <register name="6" type="4">
-        <text>''</text>
+        <text>1</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgd29yZDoK</text>
+      <register name="7" type="4">
+        <text>[:-</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgYwo=</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZXh0ZW5kIA==</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
