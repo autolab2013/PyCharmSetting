@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/README.md" timestamp="1446663499902">
@@ -21,6 +21,9 @@
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
         <mark key="^" line="21" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1446733788039">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" timestamp="1446732611155">
         <mark key="'" line="58" column="0" />
@@ -50,6 +53,10 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="74" column="16" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/README.md" timestamp="1446733577239">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="67" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446702994299">
         <mark key="[" line="78" column="38" />
         <mark key="]" line="78" column="26" />
@@ -62,12 +69,12 @@
         <mark key="]" line="105" column="16" />
         <mark key="." line="105" column="16" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" timestamp="1446732565104">
-        <mark key="'" line="95" column="16" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="76" />
-        <mark key="^" line="60" column="18" />
-        <mark key="." line="60" column="18" />
+      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/compress.py" timestamp="1446733847303">
+        <mark key="'" line="210" column="16" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="28" />
+        <mark key="." line="70" column="28" />
+        <mark key="^" line="70" column="28" />
       </file>
       <file name="/Dummy.css" timestamp="1446512191031">
         <mark key="[" line="0" column="0" />
@@ -84,11 +91,11 @@
         <mark key="]" line="149" column="38" />
         <mark key="." line="149" column="38" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/README.md" timestamp="1446730723712">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="76" />
-        <mark key="^" line="6" column="76" />
-        <mark key="." line="6" column="76" />
+      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/README.md" timestamp="1446733583303">
+        <mark key="[" line="10" column="84" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
@@ -143,8 +150,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyBlbmNvZGVkIGFzIHVuc2lnbmVkIHNob3J0LCBwYWNrIGZvcm1hdCBpcyAiPEgiIGxpdHRsZSBlbmRpbmcgdW5zaWduZWQgc2hvcnQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -153,34 +160,34 @@
         <text>extend</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IyBlbmNvZGVkIGFzIHVuc2lnbmVkIHNob3J0LCBwYWNrIGZvcm1hdCBpcyAiPEgiIGxpdHRsZSBlbmRpbmcgdW5zaWduZWQgc2hvcnQ=</text>
+        <text>/usr/bin/time --format %U /opt/alttools/bin/python decompress.py</text>
       </register>
-      <register name="1" type="4">
-        <text>index</text>
+      <register name="1" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>index</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyB0ZXN0X2ZpbGUgPSAndGVzdC50eHQnCg==</text>
+      <register name="4" type="4">
+        <text>1</text>
       </register>
       <register name="5" type="4">
+        <text>-</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyB0ZXN0X2ZpbGUgPSAndGVzdC50eHQnCg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">PHdvcmQsIGluZGV4PiA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQgIm5ldyB3b3JkIGFkZGVkIDogfCIgKyBlbnRyeSArICd8Jwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQgImVudHJ5IGZvdW5kOiAiICsgc3RyKG15X2RpY3QuaW5kZXgoZW50cnkpKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>_file</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
