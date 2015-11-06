@@ -1,0 +1,2 @@
+# PyCharmSetting
+sync PyCharm setting
