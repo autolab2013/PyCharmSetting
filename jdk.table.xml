@@ -1,25 +1,12 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.6.9 (/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6)" />
+      <name value="Unknown at C:\Python27\python.exe" />
       <type value="Python SDK" />
-      <version value="Python 2.6.9" />
-      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+      <homePath value="C:\Python27\python.exe" />
       <roots>
         <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" />
-            <root type="simple" url="file:///Library/Python/2.6/site-packages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/661428859" />
-          </root>
+          <root type="composite" />
         </classPath>
         <sourcePath>
           <root type="composite" />
@@ -28,60 +15,41 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <name value="Remote Python 2.7.6 Vagrant VM at C:/NathanLRF/Cornell/GitHub/WebCrawler/VagrantVM (/usr/bin/python)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant://C:/NathanLRF/Cornell/GitHub/WebCrawler/VagrantVM/usr/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-2125986627" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1595769229" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/setuptools-5.7-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/-125940560" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 (/usr/local/bin/python2.7)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="/usr/local/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
-            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-1.5.6-py2.7.egg" />
-            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-1199944087" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
+      <additional VAGRANT_FOLDER="C:/NathanLRF/Cornell/GitHub/WebCrawler/VagrantVM" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/setuptools-5.7-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/setuptools-5.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1595769229/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
   </component>
 </application>
