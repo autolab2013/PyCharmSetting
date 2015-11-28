@@ -3,25 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448742598508">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448746008752">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgY3YyLl9fdmVyc2lvbl9fCg==</text>
+        <text encoding="base64">ZGVmIHBhcnRpdGlvbihpbWcsIGwpOgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgY3YyLl9fdmVyc2lvbl9fCg==</text>
+        <text encoding="base64">ZGVmIHBhcnRpdGlvbihpbWcsIGwpOgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">MiA=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">JSA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">KSA=</text>
+      </register>
+      <register name="5" type="4">
+        <text>means</text>
+      </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIHBhcnRpdGlvbihpbWcpOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltZyA9IGN2Mi5pbXJlYWQoaW1nX2ZpbGUsIGN2Mi5JTVJFQURfQ09MT1IpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>bgr_img</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">MiA=</text>
       </register>
     </registers>
     <search>
