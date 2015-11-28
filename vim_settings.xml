@@ -3,50 +3,53 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448746008752">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448749953071">
+        <mark key="'" line="72" column="10" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="74" column="10" filename="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHBhcnRpdGlvbihpbWcsIGwpOgo=</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHBhcnRpdGlvbihpbWcsIGwpOgo=</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">MiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBsdC5oaXN0KGhpc3QsIGJpbnM9MjU2KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>means</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hdHBsb3RsaWIucHlwbG90Lmhpc3QK</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIHBhcnRpdGlvbihpbWcpOgo=</text>
+      <register name="7" type="4">
+        <text>filtered</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi5pbXJlYWQoaW1nX2ZpbGUsIGN2Mi5JTVJFQURfQ09MT1IpCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkID0gW10K</text>
       </register>
-      <register name="9" type="4">
-        <text>bgr_img</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZpbHRlcmVkID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MiA=</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
