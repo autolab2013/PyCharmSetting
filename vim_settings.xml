@@ -6,53 +6,67 @@
       <file name="/Python Console" timestamp="1448827253077">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448827330740">
-        <mark key="'" line="72" column="10" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448829066179">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="98" column="38" />
+        <mark key="]" line="67" column="28" />
+        <mark key="^" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/checkResult.py" timestamp="1448829094534">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/checkResult.sh" timestamp="1448830060614">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
     </filemarks>
     <jumps>
       <jump line="74" column="10" filename="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" />
+      <jump line="78" column="29" filename="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" />
+      <jump line="37" column="7" filename="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>cloth</text>
+        <text>simple_clock_wall</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cloth</text>
+        <text>simple_clock_wall</text>
       </register>
       <register name="2" type="4">
-        <text>gray_img</text>
+        <text>simple_clock_wall</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LSA=</text>
+        <text>clock_wall</text>
       </register>
       <register name="4" type="4">
-        <text>origin_img</text>
+        <text>simple_clock_wall</text>
       </register>
       <register name="5" type="4">
-        <text>ray_img</text>
+        <text>output</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGc=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Q09NUEFSRV9GT0xERVI9JycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIGZvciBmIGluIG9zLmxpc3RkaXIoaW5wdXRfcGF0aCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5oaXN0KGhpc3QsIGJpbnM9MjU2KQo=</text>
+        <text encoding="base64">ICAgIG91dHB1dF9wYXRoID0gJ1NNX09VVFBVVC8nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgIGlucHV0X3BhdGggPSAnb3JpX2ltYWdlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>cloth</text>
+        <text>simple_clock_wall</text>
       </register>
     </registers>
     <search>
