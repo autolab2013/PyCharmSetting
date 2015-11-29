@@ -3,53 +3,56 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448749953071">
+      <file name="/Python Console" timestamp="1448827253077">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" timestamp="1448827330740">
         <mark key="'" line="72" column="10" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="8" />
       </file>
     </filemarks>
     <jumps>
       <jump line="74" column="10" filename="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/Simple.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+      <register name="1" type="4">
+        <text>cloth</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+      <register name="&quot;" type="4">
+        <text>cloth</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsdC5oaXN0KGhpc3QsIGJpbnM9MjU2KQo=</text>
+      <register name="2" type="4">
+        <text>gray_img</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LSA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="4" type="4">
+        <text>origin_img</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdHBsb3RsaWIucHlwbG90Lmhpc3QK</text>
+      <register name="5" type="4">
+        <text>ray_img</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text encoding="base64">IGc=</text>
       </register>
-      <register name="7" type="4">
-        <text>filtered</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkID0gW10K</text>
+        <text encoding="base64">ICAgIHBsdC5oaXN0KGhpc3QsIGJpbnM9MjU2KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkID0gW10K</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>cloth</text>
       </register>
     </registers>
     <search>
