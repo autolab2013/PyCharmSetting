@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1448827253077">
+      <file name="/Python Console" timestamp="1473533721454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/checkResult.py" timestamp="1448829094534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/PythonExpert/FluentPython/chap5_function.py" timestamp="1473533701347">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/ECE5470-Final-Project/code/SimpleMedian/checkResult.sh" timestamp="1449330340961">
         <mark key="[" line="1" column="8" />
